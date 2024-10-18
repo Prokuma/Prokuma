@@ -1,5 +1,5 @@
 # Profile
-- a Director & CTO of [mocomoco inc](https://wwww.mocomoco.ai)
+- a Director & CTO of [mocomoco inc](https://www.mocomoco.ai)
 - a Doctoral Studuent of [Nara Institute of Science and Technology](https://www.naist.jp)
 
 # Overview
