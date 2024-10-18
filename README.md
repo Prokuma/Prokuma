@@ -1,3 +1,7 @@
+# Profile
+- a Director & CTO of [mocomoco inc](https://wwww.mocomoco.ai)
+- a Doctoral Studuent of [Nara Institute of Science and Technology](https://www.naist.jp)
+
 # Overview
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prokuma&theme=onedark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prokuma&theme=onedark&exclude=html)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
